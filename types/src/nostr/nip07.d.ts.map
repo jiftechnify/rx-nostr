@@ -1,0 +1,1 @@
+{"version":3,"file":"nip07.d.ts","sourceRoot":"","sources":["../../../src/nostr/nip07.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,eAAe,CAAC;AAElC,OAAO,CAAC,MAAM,CAAC;IACb,UAAU,MAAM;QACd,KAAK,CAAC,EAAE,KAAK,CAAC,KAAK,CAAC,KAAK,CAAC;KAC3B;CACF"}
